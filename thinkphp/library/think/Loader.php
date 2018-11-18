@@ -663,6 +663,7 @@ class Loader
  */
 function __include_file($file)
 {
+
     return include $file;
 }
 
